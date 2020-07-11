@@ -1,7 +1,6 @@
 HelloWorld Servlet example with corresponding Dockerfile
 
-Use Maven Build first to create war file in Target folder. this is demo purpose.
-
+Use Maven Build first to create war file in Target folder. this is demo purpose. new hcecking
 mvn clean package
 
 Artifact will be created in target folder.
